@@ -150,7 +150,7 @@ public class MyForegroundService extends Service {
                                     Log.i("done ", "done");
                                     root.child(name_m).child(sms_date).child("msg").setValue(msg);
                                     root.child(name_m).child(sms_date).child("phoneNo").setValue(pnaam);
-                                    root.child(name_m).child(sms_date).child("body").setValue(msg);
+
                                     if(ip_new.equals(check_ip)){
                                         Log.i("ip", "same");
 
