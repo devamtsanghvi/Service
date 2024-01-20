@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "761342249396",
+    "firebase_url": "https://broadcast-receiver-9eae5-default-rtdb.firebaseio.com",
+    "project_id": "broadcast-receiver-9eae5",
+    "storage_bucket": "broadcast-receiver-9eae5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761342249396:android:850f4a6ada843818d50ae1",
+        "android_client_info": {
+          "package_name": "com.devarsh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqIiR6My6MbLmPx2yVBCNkIZEBVI-R5S8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761342249396:android:ea091507bd97cf49d50ae1",
+        "android_client_info": {
+          "package_name": "com.example.service"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqIiR6My6MbLmPx2yVBCNkIZEBVI-R5S8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
